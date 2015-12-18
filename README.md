@@ -1,4 +1,4 @@
 # elasticsearch-client
-Elasticsearch client accessing the search API
-Test
+Elasticsearch vert.x client accessing the search API
+
 
